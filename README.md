@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy RhaSoft</h1>
 <h3 align="center">🚀 Estudiante apasionado de Ingeniería en Bioinformática en la Universidad de las Ciencias Informáticas (UCI) 🚀</h3>
 
 ---
@@ -9,7 +9,7 @@
 - 🎯 **Objetivo:** Desarrollar soluciones software y pipelines de análisis que contribuyan a la investigación biomédica y genómica.
 - 🌱 **Aprendiendo constantemente** sobre **Machine Learning aplicado a datos biológicos**, análisis de secuencias NGS, y desarrollo de software robusto.
 - 💡 **Interesado en:** Análisis de datos ómicos (genómica, transcriptómica), desarrollo de algoritmos bioinformáticos y visualización científica.
-- 📫 **Cómo contactarme:** [tu.email@correo.com](mailto:tu.email@correo.com)
+- 📫 **Cómo contactarme:** [rhasoft01@gmail.com](mailto:rhasoft01@gmail.com)
 - ⚡ **Dato curioso:** Me apasiona descubrir las historias que los datos biológicos pueden contarnos a través del código.
 
 ---
@@ -93,10 +93,10 @@ Aquí hay algunos proyectos en los que he trabajado y que reflejan mis habilidad
   <a href="https://www.linkedin.com/in/tu-perfil/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:tu.email@correo.com">
+  <a href="mailto:rhasoft01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/tu-usuario">
+  <a href="https://twitter.com/rhasoft">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
